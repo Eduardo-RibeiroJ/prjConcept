@@ -1,0 +1,102 @@
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\bin\Debug\PrjConcept.exe.config
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\bin\Debug\PrjConcept.exe
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\bin\Debug\PrjConcept.pdb
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmClientes.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmDebitos.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmFornecedores.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmFuncionarios.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmProdutos.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmAlterarDeb.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmConfig.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesCli.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesForn.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesProd.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesquisa.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesDebito.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmBase.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmLogin.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmPrincipal.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmVendas.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmSplash.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.exe
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.pdb
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\bin\Debug\PrjConcept.XML
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Modelos.frmSobre.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmCriarBackup.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Relatorios.frmRelatorio.resources
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\RdlCompile.cache
+C:\Users\Eduardo\Desktop\Sistema\PrjConcept\PrjConcept\obj\Debug\RdlCompile.compiled
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\bin\Debug\PrjConcept.exe.config
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\bin\Debug\PrjConcept.XML
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.exe
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.pdb
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\bin\Debug\PrjConcept.exe
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\bin\Debug\PrjConcept.pdb
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.csprojResolveAssemblyReference.cache
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmClientes.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmDebitos.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmFornecedores.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmFuncionarios.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmProdutos.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmAlterarDeb.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Modelos.frmSobre.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmConfig.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesCli.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesForn.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesProd.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesquisa.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesDebito.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmBase.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmCriarBackup.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmLogin.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmPrincipal.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmVendas.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmSplash.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Properties.Resources.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Relatorios.frmRelatorio.resources
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\PrjConcept.csproj.GenerateResource.Cache
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\RdlCompile.cache
+D:\Backup Pendrive\Sistema ULTIMO\PrjConcept\PrjConcept\obj\Debug\RdlCompile.compiled
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\bin\Debug\PrjConcept.exe.config
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\bin\Debug\PrjConcept.XML
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.exe
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.pdb
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\bin\Debug\PrjConcept.exe
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\bin\Debug\PrjConcept.pdb
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmClientes.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmDebitos.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmFornecedores.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmFuncionarios.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Cadastros.frmProdutos.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmAlterarDeb.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Modelos.frmSobre.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmConfig.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesCli.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesForn.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesProd.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesquisa.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmPesDebito.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmBase.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Formularios.Sistema.frmCriarBackup.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmLogin.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmPrincipal.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmVendas.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.frmSplash.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.Relatorios.frmRelatorio.resources
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\PrjConcept.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\RdlCompile.cache
+C:\Users\Eduardo\Desktop\PrjConcept\PrjConcept\obj\Debug\RdlCompile.compiled

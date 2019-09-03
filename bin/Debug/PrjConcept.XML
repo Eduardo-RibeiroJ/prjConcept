@@ -1,0 +1,609 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PrjConcept</name>
+    </assembly>
+    <members>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.ClienteDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.CompraDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.DebitoDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.FornecedorDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.FuncionarioDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.ItensCompraDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.ProdutoDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.CompraTempDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.RelatorioDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.ClienteRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.CompraRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.DebitoRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.FornecedorRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.FuncionarioRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.ItensCompraRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.ProdutoRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.CompraTempRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.RelatorioRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.ClienteRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.CompraRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.DebitoRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.FornecedorRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.FuncionarioRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.ItensCompraRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.ProdutoRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.CompraTempRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSet.RelatorioRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.ClienteTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.CompraTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.DebitoTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.FornecedorTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.FuncionarioTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.ItensCompraTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.ProdutoTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.CompraTempTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.RelatorioTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.TableAdapterManager">
+             <summary>
+            TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PrjConcept.Dados.DB_ConceptDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Update rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PrjConcept.Dados.DB_ConceptDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Insert rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PrjConcept.Dados.DB_ConceptDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Delete rows in bottom-up order.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.TableAdapterManager.UpdateAll(PrjConcept.Dados.DB_ConceptDataSet)">
+             <summary>
+            Update all changes to the dataset.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+             <summary>
+            Update Order Option
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Dados.DB_ConceptDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+             <summary>
+            Used to sort self-referenced table's rows
+            </summary>
+        </member>
+        <member name="F:PrjConcept.frmBase.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.frmBase.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.frmBase.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Formularios.Cadastros.frmClientes.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Formularios.Cadastros.frmClientes.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Formularios.Cadastros.frmClientes.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Formularios.Cadastros.frmDebitos.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Formularios.Cadastros.frmDebitos.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Formularios.Cadastros.frmDebitos.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Formularios.Cadastros.frmFornecedores.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Formularios.Cadastros.frmFornecedores.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Formularios.Cadastros.frmFornecedores.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Formularios.Cadastros.frmFuncionarios.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Formularios.Cadastros.frmFuncionarios.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Formularios.Cadastros.frmFuncionarios.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Formularios.Cadastros.frmProdutos.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Formularios.Cadastros.frmProdutos.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Formularios.Cadastros.frmProdutos.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Formularios.Sistema.frmAlterarDeb.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmAlterarDeb.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmAlterarDeb.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Formularios.Modelos.frmSobre.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Formularios.Modelos.frmSobre.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Formularios.Modelos.frmSobre.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Formularios.Sistema.frmConfig.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmConfig.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmConfig.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Formularios.Sistema.frmPesquisa.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmPesquisa.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmPesquisa.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Formularios.Sistema.frmPesCli.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmPesCli.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmPesCli.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Formularios.Sistema.frmPesForn.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmPesForn.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmPesForn.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Formularios.Sistema.frmPesProd.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmPesProd.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmPesProd.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Formularios.Sistema.frmPesDebito.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmPesDebito.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmPesDebito.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Formularios.Sistema.frmCriarBackup.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmCriarBackup.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Formularios.Sistema.frmCriarBackup.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.frmLogin.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.frmLogin.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.frmLogin.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.frmPrincipal.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.frmPrincipal.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.frmPrincipal.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.frmVendas.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.frmVendas.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.frmVendas.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.frmSplash.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.frmSplash.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.frmSplash.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="F:PrjConcept.Relatorios.frmRelatorio.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PrjConcept.Relatorios.frmRelatorio.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PrjConcept.Relatorios.frmRelatorio.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:PrjConcept.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:PrjConcept.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:PrjConcept.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:PrjConcept.Properties.Resources.Loading">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PrjConcept.Properties.Resources.nfechar1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PrjConcept.Properties.Resources.nfechar11">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>
